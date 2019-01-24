@@ -52,7 +52,7 @@ class App extends Component {
                         classNames="fade"
                     >
                         <div style={{ display: 'flex', flexDirection: 'column', backgroundColor: 'rgba(10, 145, 118, 0.8)', borderRadius: '10vw', color: 'white' }}>
-                            <img style={{ position: 'relative', maxWidth: '500px', width: '80vw', transition: 'opacity .25s ease-in-out', borderRadius: '10vw' }} src={image} />
+                            <img style={{ position: 'relative', maxHeight: '80vh', maxWidth: '500px', width: '80vw', transition: 'opacity .25s ease-in-out', borderRadius: '10vw' }} src={image} />
                             <h1>Merci {name} !</h1>
                         </div>
                     </CSSTransition>
