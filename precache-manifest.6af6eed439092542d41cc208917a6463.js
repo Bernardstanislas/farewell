@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/farewell/static/js/runtime~main.00624226.js"
   },
   {
-    "revision": "cceb511b697b767601a9",
-    "url": "/farewell/static/js/main.cceb511b.chunk.js"
+    "revision": "47ac847e41584e60ea4e",
+    "url": "/farewell/static/js/main.47ac847e.chunk.js"
   },
   {
     "revision": "7fe3bef41923022ee146",
     "url": "/farewell/static/js/1.7fe3bef4.chunk.js"
   },
   {
-    "revision": "cceb511b697b767601a9",
+    "revision": "47ac847e41584e60ea4e",
     "url": "/farewell/static/css/main.9db406d6.chunk.css"
   },
   {
-    "revision": "f788db625556363ff537b11db5a81810",
+    "revision": "5721e412222919d6b6d77008879f0460",
     "url": "/farewell/index.html"
   }
 ];
